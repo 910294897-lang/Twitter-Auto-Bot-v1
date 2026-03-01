@@ -38,7 +38,7 @@
 *   专注 AI 落地实战
 *   帮文科生入局赚钱，帮 AI 产品实现增长
 
-[关注我的 Twitter](https://twitter.com/andyxqzhang001) 获取更多 AI 搞钱干货。
+[👉 关注我的 Twitter @大厂转型人强哥](https://twitter.com/andyxqzhang001)
 
 ---
 *本项目仅供学习交流，请勿用于发送垃圾信息。*
