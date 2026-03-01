@@ -37,7 +37,7 @@
 *   专注 AI 落地实战
 *   帮文科生入局赚钱，帮 AI 产品实现增长
 
-[👉 关注我的 Twitter @大厂转型人强哥](https://twitter.com/andyxqzhang001)
-欢迎关注公众号@大厂转型人强哥，微信：qianggegod123(备注 twitterbot 可快速通过)
+* [👉 欢迎关注我的 Twitter @大厂转型人强哥](https://twitter.com/andyxqzhang001)
+微信：qianggegod123(备注 twitterbot 可快速通过)
 ---
 *本项目仅供学习交流，请勿用于发送垃圾信息。*
